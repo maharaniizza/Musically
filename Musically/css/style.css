@@ -1,0 +1,54 @@
+.content {
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+    background-image: url('../images/background.jpg');
+    border: 1px solid black;
+  }
+  .text,li{
+      text-align: justify; text-indent: 30px; font-size: 15px;
+      padding: 5px;
+      font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+  }
+  .header{
+    
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-color: #e7e7e7;
+  }
+  h3,h6{
+    margin: -6px;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+
+  }
+  h6{
+      font-weight: 500;
+      font-size: 22px;
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+  .imglink{
+    border: 5px solid black;
+
+  }
+  .text-product {
+    text-align: center;  font-size: 15px;
+    padding: 5px;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+  }
+  .copyright {
+    text-align: center;  font-size: 18px;
+    padding: 5px;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+    font-weight: bold;
+    
+  }
+  .imgProduct{
+      max-width: 15%;
+  }
+  .containerProduct{
+    margin: auto;
+  }
